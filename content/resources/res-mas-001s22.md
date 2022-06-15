@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-mas-001-raise-responsible-ai-for-social-empowerment-and-education-spring-2022/a24be09628556b3e46239599638a3c61_res-mas-001s22.jpg
+file: /courses/res-mas-001-raise-responsible-ai-for-social-empowerment-and-education-spring-2022/a24be09628556b3e46239599638a3c61_res-mas-001s22.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "The logo for the MIT initiative Responsible AI for Social Empowerment\
