@@ -10,6 +10,7 @@ image_metadata:
   image-alt: 'Art design with written text of "MIT RAISE: Responsible AI for Social
     Empowerment and Education'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: res-mas-001s22-th.jpg
